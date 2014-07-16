@@ -53,5 +53,5 @@ coverage.xml
 docs/_build/
 
 # Data files
-src/*.xls
-src/*.xlsm
+*.xls
+*.xlsm
