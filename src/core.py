@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 #-*- encoding = UTF-8 -*-
+
 from __future__ import division
 __author__ = 'Mark Z. Zhou'
 __version__ = '1.0'
