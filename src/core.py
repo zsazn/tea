@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 #-*- encoding = UTF-8 -*-
-
 from __future__ import division
 __author__ = 'Mark Z. Zhou'
 __version__ = '1.0'
@@ -25,6 +24,7 @@ print '                                 | |                                     
 print '                                 | |           Updated on Apr. 9, 2014           | |'
 print '                                 | |_____________________________________________| |'
 print '                                 |_________________________________________________|'
+
 
 rawdata = xlrd.open_workbook("data_rev.xls") # Read the raw data from file
 
